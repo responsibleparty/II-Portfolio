@@ -69,38 +69,38 @@ nav a{
 }
 .largeProject{
     grid-column: span 2;
-    background-image: url("/assets/images/HoriseonProject.jpg");
+    background-image: url("/assets/images/horiseon-project.jpg");
     background-position: center;
     background-size: cover;
     height: 400px;
 }
 .smallProject1{
     grid-column: 1/2;
-    background-image: url("/assets/images/TypingImage.png");
+    background-image: url("/assets/images/typing-image.png");
     background-position: center;
     background-size: cover;
-    height: 400px;
+    height: 300px;
 }
 .smallProject2{
     grid-column: 2/3;
-    background-image: url("/assets/images/CrochetProject.jpeg");
+    background-image: url("/assets/images/crocheted-project.jpeg");
     background-position: center;
     background-size: cover;
-    height: 400px;
+    height: 300px;
 }
 .smallProject3{
     grid-column: 1/2;
-    background-image: url("/assets/images/Photography.jpg");
+    background-image: url("/assets/images/cecilias-photography.jpg");
     background-position: center;
     background-size: cover;
-    height: 400px;
+    height: 300px;
 }
 .smallProject4{
     grid-column: 2/3;
-    background-image: url("/assets/images/Dogs.jpg");
+    background-image: url("/assets/images/cecilias-dogs.jpg");
     background-position: center;
     background-size: cover;
-    height: 400px;
+    height: 300px;
     
 }
 .imageBanner{
