@@ -69,14 +69,14 @@ nav a{
 }
 .largeProject{
     grid-column: span 2;
-    background-image: url("../images/horiseon.jpg");
+    background-image: url("/assets/images/horiseon.jpg");
     background-position: center;
     background-size: cover;
     height: 400px;
 }
 .smallProject1{
     grid-column: 1/2;
-    background-image: url("../images/typingimage.png");
+    background-image: url("./images/typingimage.png");
     background-position: center;
     background-size: cover;
     height: 300px;
@@ -90,7 +90,7 @@ nav a{
 }
 .smallProject3{
     grid-column: 1/2;
-    background-image: url("../images/photography.jpg");
+    background-image: url("/../images/photography.jpg");
     background-position: center;
     background-size: cover;
     height: 300px;
