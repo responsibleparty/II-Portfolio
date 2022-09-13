@@ -73,6 +73,13 @@ nav a{
     background-size: cover;
     height: 400px;
 }
+.largeProject2{
+    grid-column: span 2;
+    background-image: url("../images/PokemonBanner.jpeg");
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
 .smallProject1{
     grid-column: 1/2;
     background-image: url("../images/PasswordGenerator.png");
